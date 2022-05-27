@@ -34,3 +34,4 @@ class contohTurunan{
 	System.out.println("volume kotak adalah"+kotak.volume());
    }
 }
+   
